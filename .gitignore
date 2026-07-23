@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment files
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+pip
+
+# IDE
+.idea/
+
+# Local environment
+.env

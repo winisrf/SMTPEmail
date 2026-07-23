@@ -1,0 +1,1 @@
+['发件人：卫妆 amyabcd@foxmail.com', '收件人：1804817170 1804817170@qq.com', '时 间：Mon, 15 May 2023 15:18:54 +0800', '主题：Hello！', 'Nice to meet you！\r\n\r\n\r\n\r\n\r\n卫妆\r\namyabcd@foxmail.com\r']
